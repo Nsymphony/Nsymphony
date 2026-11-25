@@ -8,8 +8,6 @@ I am an AI & Machine Learning Engineer transitioning from [Automotive MNC]. I sp
 - 📫 How to reach me: aroon.t@gmail.com
 
 **My Tech Stack:**
-Python | Pandas | NumPy | Scikit-Learn | Streamlit | Git
-
+Python | Pandas | NumPy | Scikit-Learn | Streamlit | Gi
 **Check out my live deployed projects below! 👇**
-*(I will add links here as I build them)*
--->
+*   **[🩺 Diabetes Risk Predictor](https://nsymphony-acfrlvnw6cgzdldpak7psh.streamlit.app)** - An end-to-end Machine Learning web app that predicts diabetes risk based on patient clinical data (built with Python, Scikit-Learn, and Streamlit).
