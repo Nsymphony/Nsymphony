@@ -2,7 +2,7 @@
 
 I am an AI & Machine Learning Engineer transitioning from [Automotive]. I specialize in building practical, end-to-end machine learning solutions and deploying them.
 
-- 🔭 I’m currently working on: Building my first end-to-end ML web app
+- 🔭 I’m currently working on: Building more end-to-end ML projects and exploring LLMs
 - 🌱 I’m currently learning: Python, Scikit-Learn, and Streamlit
 - 💬 Ask me about: AI, Machine Learning, and transitioning into tech
 - 📫 How to reach me: aroon.t@gmail.com
